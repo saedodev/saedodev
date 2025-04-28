@@ -1,4 +1,5 @@
 ## Hi there, I'm Sayid Ridho 👋
+I'm a passionate programmer with junior experience. Currently learning to be Javascript and Golang developer, nice to meet you!
 
 ### 📊 Time Stats:
 
